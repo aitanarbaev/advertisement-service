@@ -10,7 +10,10 @@
 * MySQL - СУБД
 
 ## Запуск приложения
-
+```bash
+docker build -t advertisement-server .
+docker-compose build && docker-compose up
+```
 
 
 ## Работа API
