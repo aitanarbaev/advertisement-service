@@ -11,7 +11,7 @@
 
 ## Запуск приложения
 ```bash
-docker build -t advertisement-server .
+docker build -t advertisement-service .
 docker-compose build && docker-compose up
 ```
 
